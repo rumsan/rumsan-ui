@@ -1,6 +1,6 @@
 {
   "name": "rumsan-ui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./lib/index.js",
   "description": "UI Utilities for Rumsan Projects",
   "author": "Rumsan Tech <team@rumsan.com>",
